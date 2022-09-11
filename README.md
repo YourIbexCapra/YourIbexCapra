@@ -9,15 +9,23 @@
 </div>
 
 
-<h1 align="center">
+<h2 align="center">
   Cαρɾα
-</h1>
+</h2>
 
-<h3 align="center">
-ɪɴ ᴄᴀᴘʀᴀ ᴡᴇ ᴛʀᴜꜱᴛ!
-</h3>
+<h4 align="center">
+  ɪɴ ᴄᴀᴘʀᴀ ᴡᴇ ᴛʀᴜꜱᴛ!
+</h4>
 
-<br/>
+---
+
+<div>
+  <p>Penetration Tester, Tinkerer, Warrenty Voider, Engineer</p>
+  <p>Always a student!</p>
+  <p><3 Trying to make the WEB a better place to be :)</p>
+</div>
+
+---
 
 ## 🔥 𝗦𝗸𝗶𝗹𝗹𝘀
 
@@ -26,7 +34,7 @@
 </div>
 
 <div>
-  <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="200"/>&nbsp;
+  <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="200"/>
 </div>
 
 
@@ -34,11 +42,15 @@
 
 ## 📈 𝗦𝘁𝗮𝘁𝘀
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourIbexCapra&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
 
-<br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourIbexCapra&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourIbexCapra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourIbexCapra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
 
 <br/>
 <br/>
